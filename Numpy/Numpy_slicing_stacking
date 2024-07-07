@@ -1,0 +1,4 @@
+# Numpy Slicing, Stacking, Indexing
+
+n = [6, 7, 8]
+print(n[0:1])

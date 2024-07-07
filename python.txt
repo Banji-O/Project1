@@ -1,0 +1,2 @@
+Learning python from scratch, because I need to use it for AI.
+This will let me become an AI engineer.
